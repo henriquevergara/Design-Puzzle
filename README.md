@@ -2,3 +2,4 @@
 Given an uml diagram, apply the strategy pattern on it.
 
 
+##UML
